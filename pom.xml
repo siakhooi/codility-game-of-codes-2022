@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>nsh.codility</groupId>
-	<artifactId>ChallengeName</artifactId>
+	<artifactId>codility-game-of-codes-2022</artifactId>
 	<version>1.0.0</version>
 
-	<name>ChallengeName</name>
-	<url>https://github.com/siakhooi/codility-ChallengeName/</url>
+	<name>codility-game-of-codes-2022</name>
+	<url>https://github.com/siakhooi/codility-game-of-codes-2022</url>
 
 	<build>
 		<plugins>
